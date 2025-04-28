@@ -58,8 +58,3 @@ This repository contains a full machine learning pipeline to predict **podcast e
 
 Contributions, feedback, and ideas for model improvements are welcome!  
 Feel free to open an issue or submit a pull request.
-
----
-
-Would you also like me to draft a **shorter, 2-3 line version** for the GitHub project homepage or top summary? 🚀  
-(Usually helpful too!)
